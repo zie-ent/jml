@@ -6,6 +6,7 @@
 * Junges Team, Arbeit nicht gleich sehen als ich das mache. Sehen Probleme nicht
 * MA die alles hinterfragt und nicht folgt
 * Wenn Bank etwas vorgibt, wird alles hinterfragt. MA kann nicht mit Vorgaben leben
+* MA unzufrieden  mit Reorg, Schnippische Antworten
 
 
 
