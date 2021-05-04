@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [README](README.md)
 
 ## BLOCK I <a id="block-1"></a>
 
