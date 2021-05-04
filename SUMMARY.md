@@ -10,4 +10,5 @@
 * [PEAK/7-Punkte Entscheidungsmethodik](block-1/peak-7-punkte-entscheidungsmethodik.md)
 * [Intervision](block-1/untitled.md)
 * [LSDI](block-1/lsdi.md)
+* [Kernfähigkeiten der Führung](block-1/kernfaehigkeiten-der-fuehrung.md)
 
