@@ -11,4 +11,5 @@
 * [Intervision](block-1/untitled.md)
 * [LSDI](block-1/lsdi.md)
 * [Kernfähigkeiten der Führung](block-1/kernfaehigkeiten-der-fuehrung.md)
+* [Transaktionsanalyse](block-1/transaktionsanalyse.md)
 
