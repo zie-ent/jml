@@ -13,4 +13,5 @@
 * [Kernfähigkeiten der Führung](block-1/kernfaehigkeiten-der-fuehrung.md)
 * [Transaktionsanalyse](block-1/transaktionsanalyse.md)
 * [Mein persönliches Führungsverständnis](block-1/mein-persoenliches-fuehrungsverstaendnis.md)
+* [Fallbeschreibung Leistungsabfall](block-1/fallbeschreibung-leistungsabfall.md)
 
