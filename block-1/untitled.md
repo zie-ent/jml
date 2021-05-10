@@ -10,9 +10,9 @@
 
 
 
-## Konkretes Beispiel
+## Konkretes Beispiel I 
 
-### Fall
+### Fall 
 
 Mitarbeiter nicht auf dem gleichen Level wie ein Mitarbeiter der seit kurzem
 
@@ -39,7 +39,80 @@ Mitarbeiter nicht auf dem gleichen Level wie ein Mitarbeiter der seit kurzem
 
 Begleiten ? Andere Aufgaben im Team zuteilen?
 
-### Hypothesen
+###  Hypothesen:
+
+* &lt;Bild einfügen&gt;
+
+
+
+
+
+## Konkretes Beispiel II 
+
+### Fall 
+
+* 20 Jahre. Mitarbeiter
+* Blickwinkel verkleinert
+* Assistenz-Pool, dagegen ist
+* Vorgesetzte
+  * Extern
+  * Sü
+* Chance gehabt auf TL, aber abgelehnt
+* Alles negativ, alles "scheisse" \(egal ob MA, Produkt, Beratung\)
+* Gute Vorschläge
+* in Ausbildung tätig
+
+
+
+==&gt; Gefragt: Wie geh ich an ihn ran, was sag ich ihm? Gespräche führen, noch mehr machen
+
+### Nachfragen:
+
+* 40+
+* verheiratet, keine Kinder
+* 1:1, im Plenum, 
+* Reagiert Extrem auf Kommunikation
+* Was macht er 
+  * Heilpraktier
+  * Aktiv / Sportlich
+* Spass Beruf
+
+  * Schule
+
+* Leistungsabfall bemerkt:  Nein
+* Externe Hilf
+
+###  Hypothesen:
+
+* &lt;Bild einfügen&gt;
+
+
+
+### **Ideen:** 
+
+anderen Chef fragen, vor 2  ? 
+
+Den Kollegen der "Dicke ist" einbeziehn ?
+
+Einbeziehen Personal ?
+
+Kann nich loslassen
+
+Privat + Gesundheitliche Probleme ansprechen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
